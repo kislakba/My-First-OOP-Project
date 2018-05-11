@@ -38,7 +38,6 @@ public class Test {
         h.deleteTheAppointmentAutomaticly(p1);
         h.deleteTheAppointmentAutomaticly(p1);
         h.deleteTheAppointmentAutomaticly(p2);
-        h.listCardiologyPatients();
         h.deleteTheAppointmentAutomaticly(p2);
         h.deleteTheAppointmentAutomaticly(p2);
         h.deleteTheAppointmentAutomaticly(p3);
